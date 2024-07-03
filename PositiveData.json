@@ -1,0 +1,31 @@
+[
+  {
+    "Language": "Python",
+    "LanguageLevel": "Basic",
+    "updateLanguage": "Java",
+    "updateLanguageLevel": "Conversational",
+    "Skill": "Specflow",
+    "ExperienceLevel": "Beginner",
+    "PersonSkill": 0,
+    "updateSkill": "NUnit",
+    "updateSkillLevel": "Expert",
+    "deleteSkill": "NUnit",
+    "deleteSkillLevel": "Expert",
+    "CertificationName": "ISTQB",
+    "CertifiedFrom": "ISTQB Institute",
+    "CertificationYear": "2023",
+    "updateCertificationName": "Playwright",
+    "updateCertifiedFrom": "Playwright Course",
+    "updateCertificationYear": "2024",
+    "FirstName": "Hema",
+    "LastName": "Prabhaharan",
+    "availabilityType": "1",
+    "availableHours": "2",
+    "earnTarget": "3",
+    "isDeactivated": "false",
+    "isAuthenticated": "true",
+    "username": "Hema",
+    "Description": "I am a QA tester with 6 months of experience in manual and automation testing",
+    "personId": 0
+  }
+]
