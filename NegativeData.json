@@ -1,0 +1,32 @@
+[
+   {
+      "Language":"C++",
+      "LanguageLevel":"Fluent",
+      "Skill":"Selenium",
+      "ExperienceLevel":"Beginner",
+      "PersonSkill":0,
+      "CertificationName":"ISTQB",
+      "CertifiedFrom":"India Institute",
+      "CertificationYear":"2024"
+   },
+   {
+      "Language":"",
+      "LanguageLevel":"Basic",
+      "Skill":"",
+      "ExperienceLevel":"Expert",
+      "PersonSkill":0,
+      "CertificationName":"",
+      "CertifiedFrom":"ISTQB Institute",
+      "CertificationYear":"2024"
+   },
+   {
+      "Language":"@#$%^&",
+      "LanguageLevel":"Basic",
+      "Skill":"@#$%^&",
+      "ExperienceLevel":"Expert",
+      "PersonSkill":0,
+      "CertificationName":"@#$%^&",
+      "CertifiedFrom":"Training Institute",
+      "CertificationYear":"2023"
+   }
+]
